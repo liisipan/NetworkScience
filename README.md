@@ -1,7 +1,5 @@
-# NetworkScience
+# Community-level decision making: the Wikipedia requests for adminship
 Project in Network Science (LTAT.02.011), University of Tartu
-
-Community-level decision making: the Wikipedia requests for adminship
 
 Raw data is in txt-file "wiki-RfA.txt".
 All dependencies and code is in Google Colab notebook "Project_in_Network_Science.ipynb".
